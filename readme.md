@@ -8,3 +8,5 @@ This repository contains the implementation of ViT-CLIP for deepfake detection, 
 - usage
 - results
 - contributing
+
+Soon we will release our code, weights and data……
